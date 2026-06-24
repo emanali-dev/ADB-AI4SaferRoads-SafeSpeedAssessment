@@ -1,6 +1,6 @@
 # Challenge data and derived outputs
 outputs/
-maps/
+
 
 # Specific challenge outputs
 feature_importance.csv
