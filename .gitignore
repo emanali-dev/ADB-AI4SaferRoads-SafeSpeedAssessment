@@ -1,0 +1,19 @@
+# Challenge data and derived outputs
+outputs/
+maps/
+
+# Specific challenge outputs
+feature_importance.csv
+speed_safety_assessment_results.csv
+priority_segments.csv
+priority_segments_detailed.csv
+submission_summary.csv
+road_safety_segments.geojson
+road_safety_risk_map.html
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc

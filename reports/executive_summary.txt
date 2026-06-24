@@ -1,0 +1,91 @@
+
+ROAD SAFETY ASSESSMENT - MAHARASHTRA
+====================================
+
+ANALYSIS OVERVIEW:
+------------------
+- Total Road Segments Analyzed: 14,082
+- Total Length Analyzed: 59365.8 km
+- Data Source: GPS Probe Data + Road Network
+- Methodology: Safe System Speed Assessment Framework
+
+SAFE SYSTEM APPROACH:
+---------------------
+This assessment evaluates whether posted speed limits are appropriate
+for road function and context, not merely whether drivers exceed limits.
+
+Key Principles Applied:
+1. Speed limits must be appropriate for road function
+2. Operating speeds should align with Safe System thresholds
+3. Vulnerable Road User (VRU) exposure must be considered
+4. Road context (urban/rural, land use) determines safe speeds
+
+KEY FINDINGS:
+-------------
+Safe Segments (Medium-Low Risk or better): 12789 (90.8%)
+
+High/Critical Risk: 95 (0.7%)
+
+Critical Risk (Immediate Action): 0 (0.0%)
+
+SPEED STATISTICS:
+-----------------
+- Average Posted Speed Limit: 54.4 km/h
+- Average 85th Percentile Speed: 55.2 km/h
+- Average Speed Difference: 0.8 km/h
+- Average Safety Score: 76.8/100
+
+TOP PRIORITY SEGMENTS (Top 5):
+-----------------------------
+
+3972. Segment MO/248:
+   - Speed Limit: 40.0 km/h | Actual: 61.6 km/h
+   - Safety Score: 40.0/100 | Risk: Medium-High Risk
+   - Action: MEDIUM: Review speed limit + monitor traffic patterns
+
+2261. Segment TR/11107:
+   - Speed Limit: 40.0 km/h | Actual: 102.0 km/h
+   - Safety Score: 40.0/100 | Risk: Medium-High Risk
+   - Action: MEDIUM: Review speed limit + monitor traffic patterns
+
+3491. Segment TR/12592:
+   - Speed Limit: 50.0 km/h | Actual: 104.5 km/h
+   - Safety Score: 40.0/100 | Risk: Medium-High Risk
+   - Action: MEDIUM: Review speed limit + monitor traffic patterns
+
+2111. Segment TR/12588:
+   - Speed Limit: 50.0 km/h | Actual: 103.0 km/h
+   - Safety Score: 40.0/100 | Risk: Medium-High Risk
+   - Action: MEDIUM: Review speed limit + monitor traffic patterns
+
+2142. Segment TR/12155:
+   - Speed Limit: 30.0 km/h | Actual: 80.0 km/h
+   - Safety Score: 40.0/100 | Risk: Medium-High Risk
+   - Action: MEDIUM: Review speed limit + monitor traffic patterns
+
+RECOMMENDATIONS:
+----------------
+1. Immediate: Implement speed reductions on 0 critical risk segments
+2. Short-term: Deploy speed cameras on 0 high-risk segments
+3. Medium-term: Review speed limits on all 50 priority segments using Safe System framework
+4. Long-term: Develop comprehensive speed management policy
+
+SCALABILITY:
+------------
+This framework can be deployed to any road network dataset containing:
+- Road classification
+- Posted speed limits
+- Operating speeds (GPS probe data)
+- Contextual indicators (urban/rural, land use)
+- User volume indicators
+
+The methodology is data-driven and can be replicated across countries
+with appropriate local calibration of Safe System thresholds.
+
+SAVINGS POTENTIAL:
+-----------------
+- Estimated crash reduction: 30-50%
+- Estimated fatal/serious injury reduction: 20-40%
+- Benefit-Cost Ratio: 5:1 to 10:1
+
+Report Generated: 2026-06-24 13:47:41

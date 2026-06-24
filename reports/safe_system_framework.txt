@@ -1,0 +1,52 @@
+
+SAFE SYSTEM SPEED LIMIT FRAMEWORK
+=================================
+
+The Safe System approach recognizes that human error is inevitable and that
+road systems should be designed to minimize the consequences of errors.
+
+Recommended Safe Speed Limits by Context:
+-----------------------------------------
+
+| Context Type              | Safe Speed Limit | Rationale                              |
+|---------------------------|------------------|----------------------------------------|
+| School Zone               | 30 km/h          | Protects children; high vulnerability  |
+| High Pedestrian Area      | 30 km/h          | Protects pedestrians; high exposure    |
+| Urban Mixed Use           | 40-50 km/h       | Balances mobility with safety          |
+| Urban Residential         | 30-40 km/h       | Protects residents; high VRU exposure  |
+| Rural Collector           | 60-70 km/h       | Provides mobility; limited access      |
+| Rural Arterial/Trunk      | 80-100 km/h      | High mobility; controlled access       |
+| Controlled Access Hwy     | 80-100 km/h      | High mobility; separated users         |
+
+Assessment Approach:
+--------------------
+
+The Speed Safety Score evaluates whether posted speed limits are appropriate
+for road function and context, following these principles:
+
+1. Speed Limit Appropriateness: Is the limit consistent with road function?
+2. Operating Speed Alignment: Are drivers respecting the limit?
+3. VRU Exposure: Are vulnerable road users at risk?
+4. Compliance Rate: What proportion exceed the limit?
+5. Road Class Function: Is the limit consistent with road design?
+
+Key Distinction:
+----------------
+
+This is NOT a speeding enforcement tool. It assesses whether the speed limit
+itself is appropriate for the road's function and context. A road where no
+one speeds but the limit is 60 km/h in a school zone would still receive
+a low safety score.
+
+Scalability:
+------------
+
+This framework can be deployed to any road network dataset containing:
+- Road classification
+- Posted speed limits
+- Operating speeds (GPS probe data)
+- Contextual indicators (urban/rural, land use)
+- User volume indicators
+
+The methodology is data-driven and can be replicated across countries
+with appropriate local calibration of thresholds.
