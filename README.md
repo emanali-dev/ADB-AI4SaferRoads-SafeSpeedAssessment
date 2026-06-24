@@ -55,6 +55,13 @@ The framework assesses whether current speed limits are appropriate and identifi
 
 The generated spatial outputs (GeoJSON and tabular datasets) are designed to be compatible with enterprise geospatial platforms such as ESRI ArcGIS, supporting future deployment and decision-support workflows.
 
+## Documentation
+
+- Findings Summary: `docs/ADB_AI4SaferRoads_Findings_Summary.pdf`
+- Submission Overview: `docs/challenge_submission_overview.md`
+- Main Analysis: `notebooks/ADB_AI4SaferRoads_SafeSpeed_Assessment.ipynb`
+
+  
 ## Data Availability
 
 The datasets used in this project were provided under the ADB AI for Safer Roads Challenge Data Use Agreement and are not included in this repository.
